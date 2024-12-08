@@ -1,0 +1,15 @@
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\bin\Debug\ComplexDrawer.exe.config
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\bin\Debug\ComplexDrawer.exe
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\bin\Debug\ComplexDrawer.pdb
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\obj\Debug\ComplexDrawer.csproj.AssemblyReference.cache
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\obj\Debug\ComplexDrawer.Properties.Resources.resources
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\obj\Debug\ComplexDrawer.csproj.GenerateResource.cache
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\obj\Debug\ComplexDrawer.csproj.CoreCompileInputs.cache
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\obj\Debug\ComplexDrawer.exe
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\obj\Debug\ComplexDrawer.pdb
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\obj\Debug\ComplexDrawer.MainForm.resources
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\bin\Debug\ComplexDrawer.exe.manifest
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\bin\Debug\ComplexDrawer.application
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\obj\Debug\ComplexDrawer.TrustInfo.xml
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\obj\Debug\ComplexDrawer.exe.manifest
+D:\Works\Visual Studio\ComplexDrawer\ComplexDrawer\obj\Debug\ComplexDrawer.application
